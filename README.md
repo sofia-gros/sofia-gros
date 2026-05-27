@@ -29,9 +29,9 @@
 
 ###
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?metalgearsolid3love=sofia-gros&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?metalgearsolid3love=sofia-gros&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?metalgearsolid3love=sofia-gros&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?metalgearsolid3love=sofia-gros&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?metalgearsolid3love=sofia-gros&theme=gruvbox&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofia-gros&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofia-gros&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sofia-gros&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sofia-gros&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sofia-gros&theme=gruvbox&utcOffset=9)
 
